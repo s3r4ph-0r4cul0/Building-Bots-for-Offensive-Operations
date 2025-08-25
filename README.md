@@ -1,3 +1,7 @@
+<img width="1280" height="896" alt="image" src="https://github.com/user-attachments/assets/5a34689b-6611-48c1-90dd-574237145d1e" />
+
+
+
 # Documentação: Agente de IA para Reconhecimento Ofensivo com Nmap
 
 ## 1. Introdução
