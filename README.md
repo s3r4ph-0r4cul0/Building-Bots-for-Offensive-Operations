@@ -1,5 +1,6 @@
 <img width="1280" height="896" alt="image" src="https://github.com/user-attachments/assets/5a34689b-6611-48c1-90dd-574237145d1e" />
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f09d0a9f-61e3-4e61-b854-34a91c1cf61e" />
 
 
 # Documentação: Agente de IA para Reconhecimento Ofensivo com Nmap
